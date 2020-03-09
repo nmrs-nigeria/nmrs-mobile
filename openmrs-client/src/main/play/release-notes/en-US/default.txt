@@ -1,0 +1,4 @@
+- Fix window leakage error when viewing patient details
+- Fix various performance issues
+- Add a splash screen
+- Add intro slides for first time users
